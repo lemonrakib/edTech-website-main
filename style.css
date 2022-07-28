@@ -1,0 +1,10 @@
+.margin a{
+    margin-left: 30px;
+}
+.explore{
+    background-color: rgb(202, 241, 253);
+    padding: 20px;
+}
+.britness{
+    filter: brightness(20%);
+}
