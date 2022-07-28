@@ -1,5 +1,9 @@
 .margin a{
     margin-left: 30px;
+
+}
+.margin a:hover{
+    background-color: darkgray;
 }
 .explore{
     background-color: rgb(202, 241, 253);
